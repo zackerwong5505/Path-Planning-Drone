@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zack/test_ws/src/hypharos_ardrone_navigation/third_parties/tum_ardrone/thirdparty/thirdparty.tar.gz'
+tag=''

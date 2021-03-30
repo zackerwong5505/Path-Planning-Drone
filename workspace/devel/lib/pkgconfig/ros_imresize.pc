@@ -1,0 +1,8 @@
+prefix=/home/zack/test_ws/devel
+
+Name: ros_imresize
+Description: Description of ros_imresize
+Version: 0.0.0
+Cflags: -I/home/zack/test_ws/src/ros_imresize/include
+Libs: -L/home/zack/test_ws/devel/lib -lros_imresize
+Requires: cv_bridge image_transport roscpp std_msgs

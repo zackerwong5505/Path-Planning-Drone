@@ -1,0 +1,8 @@
+prefix=/home/zack/test_ws/install
+
+Name: hypharos_ardrone
+Description: Description of hypharos_ardrone
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zack/test_ws/install/lib 
+Requires: 
